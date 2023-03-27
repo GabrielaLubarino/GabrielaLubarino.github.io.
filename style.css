@@ -1,0 +1,39 @@
+
+        body{
+            background-color: rgb(178,100,100);
+            color: aliceblue;
+        }
+        .habilidades{ 
+            font-size: 16px;
+            width: 220px;
+        }
+ 
+        .informações-básicas{
+        float: left;
+        padding: auto;
+        
+        }
+        
+       h1{
+        text-align: center;
+       }
+
+       .descrição{
+        float: right;
+        
+        
+       }
+       
+     #índice{
+        font-size: 16px;
+            width: 229px;
+     }
+     #minha-foto{
+        border-radius: 50%;
+        width: 300px ;  
+        color: rgb(157,26,27);
+        
+     }
+     .name{
+        align-content: center;
+     }
